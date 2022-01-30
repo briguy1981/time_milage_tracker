@@ -1,0 +1,20 @@
+time tracker program for driving jobs.
+
+first step
+    Manually input current mileage on vehicle (if able to integrate with OBD2 that would work better)
+    Place current date_time when mileage is accepted
+
+Second step
+    Select when order is placed,
+        record time and mileage
+            record arrival time and mileage at pickup location.
+            record time of order pickup,  (would like to be able to put in name of place to know how long they take)
+    Record delivery time and mileage
+
+Third Step
+    Enter end mileage, current date_time
+
+Fourth step
+    Import data to database
+        Data base output:
+            Show time empty with no orders, mileage without orders, mileage and time with orders and to pick up orders.
